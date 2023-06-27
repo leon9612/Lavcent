@@ -24,5 +24,4 @@ jobs:
       with:
         node-version: v1.0
         cache: 'npm'
-    - run: npm run start
     - run: npm run build
